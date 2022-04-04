@@ -41,3 +41,6 @@ List of topics we could treat:
     ii) In-game analysis: see how changes affected. Maybe add what could've happened if other changes were made? I feel this is a very very interesting part as real teams working with AI are hightly interested in evaluating how data analytics can help in doing in-match substitutions.
     iii) Player of the match/individual scores. Also very interesting. This could be our "signature". It'd may be a significant achievement if we develop a consistent system for player scoring focusing on objective statistics.
     iv) Predictability of the match. How predictable was this weird result happened? Also like this approach but I feel it may be a bit vague. Predictability of a match as a whole may be too much for the scope of our work
+
+- Ja
+  - I like the simplicity of the analyses/results/presentation in the report of Ángels friend. I'd suggest starting out with and prioritizing simple analyzes/results, both because these require less effort and because they are easier to interpret, thus more likely to be of value. I therefore believe they should be the bread-and-butter of the report.
