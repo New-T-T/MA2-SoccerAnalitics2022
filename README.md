@@ -9,7 +9,7 @@ For next time (4.03):
 
 
 ## Second reunion: 4.03
-Preparation: 
+### Preparation: 
 List of topics we could treat: 
 - Tristan
   - Creative analysis: 
@@ -45,3 +45,20 @@ List of topics we could treat:
 - Jacob
   - I like the simplicity of the analyses/results/presentation in the report of Ángels friend. I'd suggest starting out with and prioritizing simple analyzes/results, both because these require less effort and because they are easier to interpret, thus more likely to be of value. I therefore believe they should be the bread-and-butter of the report, on top of which more complex analyses are very welcome.
   - If we want our report to have the style of the UEFA reports, which I kind of have the impression Prof. Brandes wants, then we should emphasize stroytelling with a good amount of expert quotes and shy away from having too many graphs or technical terms.
+
+
+### Meeting debrief: 
+- Timeline: 
+  - Part A: Traditionnal Analysis. 
+    - Deadline: Easter. Short deadline motivated by the fact that a lot of ressources are available. Then we can all shift toward the creative analysis. 
+    - 4 topics: 
+      - Passing: Martí and Lluís
+      - Running: Jacob and Ángel
+      - Shooting: Raimon and Tristan
+      - Predicting score: Yigit and Atay 
+    - Method:     
+      - We will only do a meeting around Easter to present our results by team. 
+      - Commit as much as possible and update on What'sApp if you feel you committed something that can be usefull for the group.
+      - IMPORTANT: Comment your code so that everyone can understand it. 
+  - Part B: Creative Analysis. 
+    - To be determined.  
