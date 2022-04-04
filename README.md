@@ -43,4 +43,4 @@ List of topics we could treat:
     iv) Predictability of the match. How predictable was this weird result happened? Also like this approach but I feel it may be a bit vague. Predictability of a match as a whole may be too much for the scope of our work
 
 - Jacob
-  - I like the simplicity of the analyses/results/presentation in the report of Ángels friend. I'd suggest starting out with and prioritizing simple analyzes/results, both because these require less effort and because they are easier to interpret, thus more likely to be of value. I therefore believe they should be the bread-and-butter of the report.
+  - I like the simplicity of the analyses/results/presentation in the report of Ángels friend. I'd suggest starting out with and prioritizing simple analyzes/results, both because these require less effort and because they are easier to interpret, thus more likely to be of value. I therefore believe they should be the bread-and-butter of the report, on top of which more complex analyses are very welcome.
