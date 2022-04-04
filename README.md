@@ -44,3 +44,4 @@ List of topics we could treat:
 
 - Jacob
   - I like the simplicity of the analyses/results/presentation in the report of Ángels friend. I'd suggest starting out with and prioritizing simple analyzes/results, both because these require less effort and because they are easier to interpret, thus more likely to be of value. I therefore believe they should be the bread-and-butter of the report, on top of which more complex analyses are very welcome.
+  - If we want our report to have the style of the UEFA reports, which I kind of have the impression Prof. Brandes wants, then we should emphasize stroytelling with a good amount of expert quotes and shy away from having too many graphs or technical terms.
