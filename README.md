@@ -42,5 +42,5 @@ List of topics we could treat:
     iii) Player of the match/individual scores. Also very interesting. This could be our "signature". It'd may be a significant achievement if we develop a consistent system for player scoring focusing on objective statistics.
     iv) Predictability of the match. How predictable was this weird result happened? Also like this approach but I feel it may be a bit vague. Predictability of a match as a whole may be too much for the scope of our work
 
-- Ja
+- Jacob
   - I like the simplicity of the analyses/results/presentation in the report of Ángels friend. I'd suggest starting out with and prioritizing simple analyzes/results, both because these require less effort and because they are easier to interpret, thus more likely to be of value. I therefore believe they should be the bread-and-butter of the report.
